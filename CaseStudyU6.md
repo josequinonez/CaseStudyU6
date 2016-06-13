@@ -330,7 +330,7 @@ ggplot (m2,
 ### Interpretation: The plot shows even less differences  than the previous one because there is a wide range of GDPs for the 38 nations with highest GDP. That's why 5 Lower middle income countries got to be included within this range
 
 
-# ---------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 
 
 # Main findings:
