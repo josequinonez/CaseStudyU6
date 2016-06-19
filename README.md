@@ -16,7 +16,7 @@
 * Summarize Findings & Conclusions
 
 ###Deliverable:
-* A project uploaded to a Github repo
+* This project uploaded to a Github repo, including CaseStudyU6.md in the Paper directory
 
 
 ### Project directory structure:

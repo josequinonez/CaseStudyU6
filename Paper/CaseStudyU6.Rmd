@@ -59,7 +59,7 @@ knitr::opts_chunk$set(root.dir = "/documents/personal/smu/doing data science/u6/
     * /Paper/CaseStudyU6_files (Dir)
 
 
-# ----------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 
 Load Data
 
@@ -278,7 +278,7 @@ cat ("The log funtion reduces the extreme difference in scales. Since the range 
 
 
 
-# ----------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 
 
 # Main findings:
