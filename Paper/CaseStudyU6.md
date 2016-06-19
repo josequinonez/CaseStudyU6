@@ -31,25 +31,24 @@ Jose Quinonez
 ###Deliverable:
 * A project uploaded to a Github repo
 
-
 ### Project directory structure:
 * CaseStudyU6 (Root Dir)
-* /makefile.R
-* /Code (Dir)
-* /Code/LoadData.R
-* /Code/FormatGDP.R
-* /Code/FormatEDSTATS.R
-* /Code/Merge.R
-* /Code/Plot.R
-* /Code/PlotQuantiles.R
-* /Data (Dir)
-* /Data/EDSTATS_Country.csv
-* /Data/GDP.csv
-* /Paper (Dir)
-* /Paper/CaseStudyU6.Rmd
-* /Paper/CaseStudyU6.md
-* /Paper/CaseStudyU6.html
-* /Paper/CaseStudyU6_files (Dir)
+  * /makefile.R
+  * /Code (Dir)
+    * /Code/LoadData.R
+    * /Code/FormatGDP.R
+    * /Code/FormatEDSTATS.R
+    * /Code/Merge.R
+    * /Code/Plot.R
+    * /Code/PlotQuantiles.R
+  * /Data (Dir)
+    * /Data/EDSTATS_Country.csv
+    * /Data/GDP.csv
+  * /Paper (Dir)
+    * /Paper/CaseStudyU6.Rmd
+    * /Paper/CaseStudyU6.md
+    * /Paper/CaseStudyU6.html
+    * /Paper/CaseStudyU6_files (Dir)
 
 
 # ----------------------------------------------------------------------------
