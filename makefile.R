@@ -1,5 +1,7 @@
 ## Set working directory for this project
-setwd("/documents/personal/smu/doing data science/u6/casestudyu6")
+RootDir <- "/documents/personal/smu/doing data science/u6/casestudyu6"
+setwd(RootDir)
+setwd("Code")
 
 ## LoadData.R loads the csv files
 source("LoadData.R")
